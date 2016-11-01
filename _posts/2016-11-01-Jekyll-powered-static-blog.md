@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Jekyll powered static blog on GitHub pages"
+date:   2016-11-01 22:56:29 +0100
+categories: jekyll update
+---
+
 
 # Jekyll powered static blog on GitHub pages
 
