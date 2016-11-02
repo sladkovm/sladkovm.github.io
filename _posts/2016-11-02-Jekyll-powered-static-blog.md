@@ -12,7 +12,7 @@ categories: jekyll update
 
 Create repo with the name `github_account_name.github.io`
 
-This will make the blog to be served from exactly the same domain, which, in my opinion, esthetically looks nice:
+This will make the blog to be served from exactly the same domain, which, in my opinion, esthetically looks nice. In fact the repo named like this will receive a special treatment from GitHub since these are dedicated for GitHub Pages files:
 
 `https://github_account_name.github.io/`
 
@@ -118,6 +118,15 @@ http://example.com/css/main.css (Not Found)
 
 Well, it loos like it is a time to get rid of this `http://example.com/` ...
 
-### Basic edit of `_config.yml`
+### Basic edit of `_config.yml` for local build
 
-This is the file, where most of the configuration magic takes place:
+This is the file, where most of the configuration magic takes place.
+
+In order to allow proper local build of the blog the following lines must be changed:
+
+```
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+```
+
+The two `url` and `baseurl` parameters are indicating that static assets, like `.css` files will be served from `http://127.0.0.1:4000/` which is simply equal to `url` because we serve the blog from the root. If we wanted to serve the blog from the `blog` subfolder then we would set `baseurl = "/blog"`.
