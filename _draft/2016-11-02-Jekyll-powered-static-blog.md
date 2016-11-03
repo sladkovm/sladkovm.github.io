@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 
 
-# Jekyll powered static blog on GitHub pages
-
 ### Create repository and clone it locally
 
 Create repo with the name `github_account_name.github.io`
@@ -130,3 +128,17 @@ url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 ```
 
 The two `url` and `baseurl` parameters are indicating that static assets, like `.css` files will be served from `http://127.0.0.1:4000/` which is simply equal to `url` because we serve the blog from the root. If we wanted to serve the blog from the `blog` subfolder then we would set `baseurl = "/blog"`.
+
+### Separating local build from GitHub build
+
+In order to be able to build both locally and on the github we will create two versions of `.config.yml`.
+
+For dev version of the file we will set `url: "http://127.0.0.1:4000"`, while for production it will remain empty`url: ""`.
+
+The `baseurl: ""` is empty in both files.
+
+To build locally use:
+
+```
+> bundle exec jekyll serve --config _config_dev.yml
+```
