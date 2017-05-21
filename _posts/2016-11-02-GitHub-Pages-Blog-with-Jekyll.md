@@ -5,7 +5,9 @@ date:   2016-11-02 15:20:00 +0100
 categories: jekyll update
 ---
 
-Static blogs are all the rage nowadays and the easiest and most popular way to create one is to reuse the *GitHub Pages* functionality in combination with *Jekyll* static site generator. In this article I will go through the pain of creating a blog myself. To the large extent it follows the [official tutorial](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), but spiced with my own comments.
+Static blogs are all the rage nowadays and the easiest and the most popular way to create one is to reuse the *GitHub Pages* functionality in combination with *Jekyll* static site generator.
+
+In this article I will go through the pain of creating a blog myself. To the large extent it follows the [official tutorial](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), but spiced with my own comments.
 
 
 ## Expected outcome
@@ -87,7 +89,9 @@ Simply run `bundle exec jekyll serve`.
 
 As it says, the site is now accessible at `http://127.0.0.1:4000/`.
 
-What it does not says is that *css* styles did not apply and there is just a bare *html* page with a very *90's* look. To fix this issue I had to edit *Jekyll* configuration file `_config.yml`, but that is a subject of a separate story.
+What it does not says is that *css* styles did not apply and there is just a bare *html* page with a very *90's* look.
+
+To fix this issue I had to edit *Jekyll* configuration file `_config.yml` - essentially remove `example.com` from the `url:` field, but this is a subject of a separate story.
 
 ## Bring the site online - push it to the GitHub remote
 
@@ -100,3 +104,7 @@ In order to bring this semi-functional site online simply I did the holy *GitHub
 ```
 
 And the page was indeed served at `https://user_name.github.io`... without *css* styles applied.
+
+## Update: github-pages 102 gem for jekyll 3.3.0
+
+Starting from *github-pages 102* based on the *jekyll 3.3.0* the *css* isues is gone and `_config.yml` is configured properly at the install.
