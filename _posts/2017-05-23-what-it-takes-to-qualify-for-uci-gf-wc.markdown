@@ -9,7 +9,7 @@ categories: cycling
 
 Last Saturday I took part in the [Schleck Gran Fondo](http://schleckgranfondo.com/) race in Luxembourg. I felt like I have very good legs, but was acutely aware that this race is the only [UCI Granfondo World Championships](http://www.albi2017cycling.eu/en/) qualifier event for the most actively ridden part of the world - Benelux including nearby northern France and North-West Germany.
 
-The 162 km race with more than 2000 climbing meters was fast and fantastic. For being held the first time, it was very well organized, on the fantastic Luxembourg roads, running through the Mosel vineyards and the area called *Little Switzerland* (every country seems to have a little Switzerland ;).
+The 162 km race with more than 2000 climbing meters was fast and fantastic. For being held the first time, it was very well organized, on the great Luxembourg roads, running through the Mosel vineyards and the area called *Little Switzerland* (every country seems to have a little Switzerland ;).
 
 The route was chosen by *Frank Schleck* himself and apparently was inspired by his favorite training rides.
 
@@ -41,3 +41,5 @@ The M40 group is slightly faster than the M35 with whooping 36.2 kph. My theory 
 For the rest no surprises and speed drops with age, but note that M65 can deliver average above 30.0 kph. Chapeau!
 
 Overall the pack broke into smaller groups of 20-30 riders. In the hindsight I must admit that crunching through the fast start is a paramount for success in such races. If the group rides away from you there is no chance to catch them again, unless good collaboration can be established with other riders, but I did not have luck to witness one.
+
+Now back to training - there is plenty of work to do.
