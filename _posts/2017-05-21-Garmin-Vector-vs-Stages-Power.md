@@ -32,7 +32,7 @@ I've also used balance information from *Vector* to report the power as 2xLeft i
 
 Results of the experiment are on the graph below. Power readings from *Stages* and *Vector* are shown in black and blue respectively. While *power difference* is shown in red. The scatter dots represent data collected with sampling rate 1 sample/sec, while the lines are the result of applying moving average filter with duration 3 sec. The latter is the same settings as I use on the *Garmin Edge* units.
 
-![title]({{site.url}}/assets/vector_stages/garmin_vs_stages.png)
+![Garmin Vector vs Stages Power]({{site.url}}/assets/vector_stages/garmin_vs_stages.png)
 
 I think it is fair to say that the power readings are matched very well. The distribution of the power difference is well centered around zero and standard deviation of 6.55 Watts amounts to only 2.6% of the average power 250 Watts - quite within the promised precision of both devices, not to mention that the noise adds quadratically.
 
