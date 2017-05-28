@@ -9,9 +9,9 @@ categories: cycling
 
 In what? In *Watts* - the units of power and the only cycling metric to objectively report the level of suffering during the bicycle race.
 
-In [my previous post](http://127.0.0.1:4000/cycling/2017/05/23/what-it-takes-to-qualify-for-uci-gf-wc.html) I did a quick and dirty job at analyzing average speed and finishing time distribution of [*Schleck Gran Fondo*](http://schleckgranfondo.com/) finishers. That exercise might tell me that I was *20 min* or *2.4 kph* short of the [*UCI Granfondo World Championships*](http://www.uci.ch/cyclingforall/uci-gran-fondo-world-series/) qualifying performance, but what it means in terms of real efforts is a wild guess.
+In [my previous post](https://sladkovm.github.io/cycling/2017/05/23/what-it-takes-to-qualify-for-uci-gf-wc.html) I did a quick and dirty job at analyzing average speed and finishing time distribution of [*Schleck Gran Fondo*](http://schleckgranfondo.com/) finishers. That exercise might tell me that I was *20 min* or *2.4 kph* short of the [*UCI Granfondo World Championships*](http://www.uci.ch/cyclingforall/uci-gran-fondo-world-series/) qualifying performance, but what it means in terms of real efforts is a wild guess.
 
-Fortunately many of us [do train with power meters](http://127.0.0.1:4000/cycling/2017/05/21/Garmin-Vector-vs-Stages-Power.html) and I've bravely embarked on a quest to find the power numbers of my competitors.
+Fortunately many of us [do train with power meters](https://sladkovm.github.io/cycling/2017/05/21/Garmin-Vector-vs-Stages-Power.html) and I've bravely embarked on a quest to find the power numbers of my competitors.
 
 ### Marrying ChronoRace with Strava
 
@@ -43,7 +43,7 @@ The actual power data are plotted as scatters and overlaid with boxplot statisti
 
 Now comes the hard truth. In order to finish in top-100 one needs to be able to sustain 280-300 Watts of Normalized Power for more than 4 hours. The sprinting power must also be there and well in excess of 1000 Watts.
 
-Normalized power numbers do drop, more down the ranking we go, and flattens at around top-400 at 230 Watts. My placement at the finish was 476 with 228 Watts and, with a bit of luck, I might have made it to the top-400, but no more than that.
+Normalized power numbers do drop, more down the ranking we go, and flatten at around top-400 at 230 Watts. My placement at the finish was 476 with 228 Watts and, with a bit of luck, I might have made it to the top-400, but no more than that.
 
 It is interesting to note that the high max efforts are only present in the top-100 group. When you are not in that category of the riders it probably makes no sense to sprint to the line anymore.
 
