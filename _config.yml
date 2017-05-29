@@ -20,6 +20,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: sladkovm
 github_username:  sladkovm
+linkedin_username: sladkovm
+google_plus_username: sladkovm
+facebook_username: sladkovm
+strava_username: sladkovm
+
 repository: sladkovm/sladkovm.github.io
 
 gems: ['jekyll-github-metadata']
