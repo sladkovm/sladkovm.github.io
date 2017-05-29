@@ -3,6 +3,7 @@ layout: post
 title:  "UCI Schleck Gran Fondo in Watts"
 date:   2017-05-28 20:00:00 +0100
 categories: cycling
+comments: true
 ---
 
 In what? In *Watts* - the units of power and the only available cycling metric to objectively report the level of suffering during the bicycle race.

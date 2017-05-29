@@ -5,8 +5,6 @@ date:   2017-05-23 22:56:29 +0100
 categories: cycling
 ---
 
-### Chasing the dream
-
 Last Saturday I took part in the [Schleck Gran Fondo](http://schleckgranfondo.com/) race in Luxembourg. I felt like I have very good legs, but was acutely aware that this race is the only [UCI Granfondo World Championships](http://www.albi2017cycling.eu/en/) qualifier event for the most actively ridden part of the world - Benelux including nearby northern France and North-West Germany.
 
 The 162 km race with more than 2000 climbing meters was fast and fantastic. For being held the first time, it was very well organized, on the great Luxembourg roads, running through the Mosel vineyards and the area called *Little Switzerland* (every country seems to have a little Switzerland ;).
