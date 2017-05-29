@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub-Pages-Blog-with-Jekyll"
 date:   2016-11-02 15:20:00 +0100
-categories: jekyll
+categories: jekyll update
 comments: true
 ---
 
