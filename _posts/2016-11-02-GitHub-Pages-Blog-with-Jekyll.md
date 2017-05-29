@@ -2,7 +2,8 @@
 layout: post
 title:  "GitHub-Pages-Blog-with-Jekyll"
 date:   2016-11-02 15:20:00 +0100
-categories: jekyll update
+categories: jekyll
+comments: true
 ---
 
 Static blogs are all the rage nowadays and the easiest and the most popular way to create one is to reuse the *GitHub Pages* functionality in combination with *Jekyll* static site generator.

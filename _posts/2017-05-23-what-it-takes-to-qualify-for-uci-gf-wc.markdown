@@ -3,6 +3,7 @@ layout: post
 title:  "What it takes to qualify for UCI GF World Championships"
 date:   2017-05-23 22:56:29 +0100
 categories: cycling
+comments: true
 ---
 
 Last Saturday I took part in the [Schleck Gran Fondo](http://schleckgranfondo.com/) race in Luxembourg. I felt like I have very good legs, but was acutely aware that this race is the only [UCI Granfondo World Championships](http://www.albi2017cycling.eu/en/) qualifier event for the most actively ridden part of the world - Benelux including nearby northern France and North-West Germany.

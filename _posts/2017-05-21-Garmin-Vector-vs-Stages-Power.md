@@ -3,6 +3,7 @@ layout: post
 title:  "Garmin Vector vs Stages Power: absolute accuracy comparison"
 date:   2017-05-21 15:00:00 +0100
 categories: cycling
+comments: true
 ---
 
 I've spent last few years competing against my cycling buddy Roberto. He is objectively stronger than me, but the real question always was - how good am I at closing the gap in our cycling abilities?
