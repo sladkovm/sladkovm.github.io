@@ -48,4 +48,4 @@ It is very tempting to blame the small data pool for such poor prediction, but t
 
 The maximum power quite expectedly is not mind blowing and only confirms that we are talking about the mountains stage here.
 
-![3Epic Road in Watts]({{site_url}}/assets/2017-06-18-3Epic-Road-in-Watts/Lavaredo_power.png)
+![3Epic Road in Watts]({{site_url}}/assets/2017-06-18-3Epic-Road-in-Watts/lavaredo_power.png)
