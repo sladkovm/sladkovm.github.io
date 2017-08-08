@@ -27,6 +27,8 @@ strava_username: sladkovm
 
 repository: sladkovm/sladkovm.github.io
 
+google_analytics: UA-38742045-2
+
 gems: ['jekyll-github-metadata']
 
 # Build settings
