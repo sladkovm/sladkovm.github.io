@@ -22,7 +22,7 @@ It all looks very impressive on the zoomed out heat map, but the shear popularit
 
 ### Separating Workouts from Commute rides
 
-In order to solve the *workout planning problem* and give the power of *Strava heat map* back to Dutch and Belgian people, I've teamed up with my good friend and web-maps magician [Vova Bilonenko](https://medium.com/@vovabilonenko).
+In order to solve the *workout planning problem* and give the power of *Strava heat map* back to Dutch and Belgian people, I've teamed up with my good friend and web-maps magician [Vova Bilonenko](https://twitter.com/delfrrr).
 
 Together we've created a demo-version of the heat-map for *Brussels* and *Berlin*. On the surface we've kept everything the same as the *Strava* service, but behind the scene we've set-up clever *Artificial Intelligence* machinery that analyzes all activities and separates them into *Workouts* and *Commutes*.
 
