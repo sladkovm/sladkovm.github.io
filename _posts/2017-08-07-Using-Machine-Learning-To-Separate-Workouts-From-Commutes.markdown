@@ -79,6 +79,6 @@ The conclusion after this analysis is that our model lacks independent features.
 
 It is fair to say that currently this project has a hobby character. For *Vova* it is an opportunity to [exercise his mapping skills](https://medium.com/@vovabilonenko/strava-activities-map-6cbce0380ec1), for me - it is an interesting data set to wrangle with. We both work on this project in between having full time job, taking care of small children and, of course, tight cycling training schedule.
 
-The public opinion, however, could make a difference and warm welcome for our efforts would inspire us to get the *advanced strava routing* service live.
+The public opinion, however, could make a difference and warm welcome for our efforts would inspire us to get the *Smart Strava Routing* service live.
 
 Visit the current demo map of Brussels by following [this link](https://delfrrr.github.io/strava-activities/brussels). Leave your comments with remarks and suggestions down below and spread the world using your social network of choice.
