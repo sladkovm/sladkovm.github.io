@@ -46,7 +46,7 @@ In order to find the *ground truth workout* rides we do make an assumption that 
 
 We have about 10,000 activities from *Brussels*, 1000 of which are labeled as *commute* and 500 are considered by us to be *workouts*. We use this labeled set of activities for training a classifier model.
 
-The trained model allows us to assign a label to the rest of 8000 activities on the map.
+The trained model allows us to assign labels to the rest of 8000 activities on the map.
 
 Accuracy of our classifier is higher than 85%. The visual representation of our 200 rides validation set is shown below. The results are well in line with what intuition would predict - the short and slow rides are *commutes*, the long and fast rides are *workouts*. The only role of the *machine learning* here is to find the quantitative boundary.
 
