@@ -10,16 +10,16 @@ After looking at how much Watts is needed to be competitive at [*La Marmotte des
 
 ### Going to the dark side
 
-In contrast to collecting *Watts*, the athlete *weight* can not be fetched using the *Strava API* without explicit users permission. This is in theory. In practice, it is always possible to go some extra technical mile and get anything you want from internet.
+In contrast to [collecting *Watts*](https://sladkovm.github.io/cycling/2017/08/01/The-value-of-gold-at-La-Marmotte-des-Alpes.html), the athlete *weight* can not be fetched using the *Strava API* without explicit users permission. This is in theory. In practice, it is always possible to go some extra technical mile and get anything you want from internet.
 
 I hope that *Strava* will not judge me harshly. After all, I am not exposing any user's sensitive information and my only goal is to celebrate the real efforts the amateur cyclist produce during the granfondo races.
 
 
 ### Weight is important, but Watts are *importanter*
 
-In contrast to my [previous analysis](https://sladkovm.github.io/cycling/2017/08/01/The-value-of-gold-at-La-Marmotte-des-Alpes.html), this time I've plotted the *weighted Watts/kilo* as a scatter plot. The size of each point on a plot represents the actual power.
-
 ![La Marmotte des Alpes]({{site_url}}/assets/2017-08-24-WPK-La-Marmotte-2017/marmotte_alpes_2017_wpk.png)
+
+I've plotted the *weighted Watts/kilo* as a scatter plot. The size of each point on a plot represents the actual power.
 
 Results are grouped according to the medal earned and coded into graphs as *gold*, *silver* and *bronze* respectively.
 
@@ -29,6 +29,6 @@ The grey-shaded band behind the scatters represents the prediction intervals cal
 
 What I found the most remarkable is that *top-100* riders can sustain the mind blowing *4.0 Watts/kg* not only because they are feather weight, but mainly due to the high absolute power output.
 
-For the rest of us - middle aged men with families, full time job and data crunching hobbies, the *2.8 Watts/kg* over *8 hours* would be more than sufficient to ride *gold* at *La Marmotte des Alpes*.
+For the rest of us - middle aged men with families, full time jobs and data crunching hobbies, the *2.8 Watts/kg* over *8 hours* would be more than sufficient to ride *gold* at *La Marmotte des Alpes*.
 
 Details of my ride can be found on [*Strava*](https://www.strava.com/activities/1069498347).
