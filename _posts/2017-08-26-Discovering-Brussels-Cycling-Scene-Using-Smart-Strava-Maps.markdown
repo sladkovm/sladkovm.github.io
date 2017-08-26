@@ -6,13 +6,15 @@ categories: cycling
 comments: true
 ---
 
-I often use *Strava heatmap* to plan my training rides abroad, but in Brussels, where I've moved to live about a year ago, I found the *Strava heatmap* to be overpopulated by commutes. If I to plan my training rides using the heatmap, I often would find myself doing an interval training on somebodies route to the *boulangerie* or *fritterie*.
+I often use *Strava heatmap* to plan my training rides abroad, but in Brussels, where I've moved to live about a year ago, I found the *Strava heatmap* to be overpopulated by commutes.
 
-To solve the problem of planning a training ride in *Brussels*, me and my friend created a demo version of the [*Smart Strava Maps*](https://sladkovm.github.io/machine_learning/2017/08/07/Using-Machine-Learning-To-Separate-Workouts-From-Commutes.html), where, behind the scenes, AI powered filter separates commutes from workouts. Example of such map in action is shown on the animation below.
+If I was to plan my training rides using the heatmap, I often would find myself doing an interval training on somebodies route to the *boulangerie* or *fritterie*.
 
-In this article, however, I would like to focus on another feature we've developed - the *Start point* filter. In order to show how it works, let me present my take on the the rich Brussels cycling scene.
+To solve the problem of planning a training ride in *Brussels*, me and my friend created a demo version of the [*Smart Strava Maps*](https://delfrrr.github.io/strava-activities/brussels), where, behind the scenes, [*AI powered filter*](https://sladkovm.github.io/machine_learning/2017/08/07/Using-Machine-Learning-To-Separate-Workouts-From-Commutes.html) separates commutes from workouts. Example of such map in action is shown on the animation below. The actual interactive map can be found [*here*](https://delfrrr.github.io/strava-activities/brussels).
 
-![Strava heat map Europe]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/brussels_commutes_workouts.gif)
+In this article I would like to focus on another feature we've developed - the *Start point* filter. In order to show how it works, let me present my take on the rich Brussels cycling scene.
+
+[![Strava heat map Europe]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/brussels_commutes_workouts.gif)](https://delfrrr.github.io/strava-activities/brussels)
 
 
 ### Brussels Big Brackets
@@ -21,19 +23,19 @@ This club describes itself as [*very cosmopolitan*](https://www.strava.com/clubs
 
 The main activity of the club is a Sunday 100 km ride that starts from the *Bois de la Cambre* at 9:00. Using *Smart Strava Maps* I can place a filter at the starting point and quickly find that in May the favorite destination of this club were the hills of the *Pajottenland*.
 
-I went with this club only once and found the tempo a bit too relaxing, but for those, who are just starting with cycling, this is a great and friendly club to join.
+I went with this club only once and found the tempo a bit too relaxing for my *granfondo* ambitions, but for those, who are just starting with cycling, this is a great and friendly club to join.
 
-![Brussels Big Brackets]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/bbb.png)
+[![Brussels Big Brackets]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/bbb.png)](https://delfrrr.github.io/strava-activities/brussels)
 
 ### Kring Dansaerts
 
 If you are young, have no family obligations, like fast rides, long coffee breaks, expensive boutique cycling clothing and custom build frames, this up-beat cycling initiative will be for you.
 
-All rides start at the [*Kring Dansaert*](https://www.strava.com/clubs/kringdansaert) bicycle boutique-caffe and in May the preferred rides destination were the hills around *Overijse*.
+All rides start at the [*Kring Dansaert*](https://www.strava.com/clubs/kringdansaert) bicycle boutique-caffe and in May the preferred rides destination were the hills around *Overijse* to the east and *Ittre* to the south-west from *Brussels*.
 
 I never went with this club and can not tell much about the atmosphere during the rides.
 
-![Kring Dansaert]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/kring.png)
+[![Kring Dansaert]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/kring.png)](https://delfrrr.github.io/strava-activities/brussels)
 
 
 ### Groot Halle Tourist
@@ -48,23 +50,23 @@ Tempo of the A-team is [pretty high](https://www.strava.com/activities/108585867
 
 The club, quite naturally, explores the roads west and south of Brussels.
 
-![GHT]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/ght.png)
+[![GHT]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/ght.png)](https://delfrrr.github.io/strava-activities/brussels)
 
 
 ### The Linde Peloton
 
-The *name_of_the_caffe peloton* is a typical dutch and flemish self-organized training ride for those, who lives racing. The tempo is typically fierce and the expectations are that the participants know all written and unwritten rules of the bicycle racing. Many riders in the peloton are regulars in the *kermesse* races.
+The *name_of_the_caffe peloton* is a typical dutch and flemish self-organized training ride for those, who loves racing. The tempo is typically fierce and the expectations are that the participants know all written and unwritten rules of the bicycle racing. Many riders in the peloton are regulars in the *kermesse* races.
 
 The most famous in Belgium is a *Het Schelde peloton*, but every reasonably large community will have it's own peloton. In Brussels it is [*The Linde peloton*](https://www.strava.com/clubs/102672) named after the caffe at the *Kasterlindenstraat 177, 1700 Dilbeek*.
 
 The rides are held on Tuesday, Thursday, Saturday and Sunday at 9:15. Given the speed and the racing character of these rides, the parcour is typically fixed.
 
-![GHT]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/the_linde.png)
+[![GHT]({{site_url}}/assets/2017-08-26-Brussels-Cycling-Scene/the_linde.png)](https://delfrrr.github.io/strava-activities/brussels)
 
 ### What next?
 
-The presented list is likely not complete and new additions are welcome in the comments on the blog or at my twitter [@sladkovm](https://twitter.com/sladkovm).
+The presented list is likely not complete and new additions are welcome in the comments down below or at my twitter [@sladkovm](https://twitter.com/sladkovm).
 
-What concerns the *Smart Strava Maps* - it is a work in progress and is heavily shaped by engagement it creates.
+What concerns the [*Smart Strava Maps*](https://delfrrr.github.io/strava-activities/brussels) - it is a work in progress and is heavily shaped by engagement it creates. We, by the way, also have a version for [*Berlin*](https://delfrrr.github.io/strava-activities/berlin) and [*Seattle*](https://delfrrr.github.io/strava-activities/seattle).
 
-Said it, of you find such map to be useful addition to the arsenal of bicycle web tools you are already using, give us *kudos* everywhere you find appropriate and do not hesitate to spread the world.
+Needless to say, that if you find such map to be useful addition to the arsenal of bicycle web tools you are already using, give us *kudos* everywhere you find appropriate and do not hesitate to spread the world.
