@@ -6,7 +6,7 @@ categories: webdev
 comments: true
 ---
 
-I am building the [Velometria.com](http://velometria.com/) using the *microservices* architecture and the easiest way to deploy such application is by using the [*Docker*](https://www.docker.com/) containers. In this article I will outline the deployment of [*FLask*](http://flask.pocoo.org/) based [*Plotly Dash*](https://plot.ly/dash/) application on a [*Digital Ocean*](https://www.digitalocean.com/) droplet.
+I am building the [Velometria.com](http://velometria.com/) using the *microservices* architecture and the easiest way to deploy such application is by using the [*Docker*](https://www.docker.com/) containers. In this article I will outline the deployment of [*Flask*](http://flask.pocoo.org/) based [*Plotly Dash*](https://plot.ly/dash/) application on a [*Digital Ocean*](https://www.digitalocean.com/) droplet.
 
 This is not a step-by-step tutorial, but rather a descriptive guideline for the ready to use boiler plate codebase, that can be found in the [*Github* repository](https://github.com/sladkovm/docker-flask-gunicorn-nginx).
 
@@ -67,7 +67,7 @@ The official [*reference guide*](https://docs.docker.com/engine/reference/builde
 
 ### Orchestrated deployment of containers
 
-Deployment options for multiple containers are specified in the  *docker-compose.yml* file. The [*official guide*](https://docs.docker.com/compose/) is a good place for browsing for more features, such as *volume sharing* between container and the host machine for example.
+Deployment options for multiple containers are specified in the  *docker-compose.yml* file. The [*official guide*](https://docs.docker.com/compose/) is a good place for browsing for more features, such as *volume sharing* between container and the host machine.
 
 What our file specifies is that we have two services. The *dash_app* is served on the port `8000` and can be reached on the internal docker network at `http://dash_app:8000` (note the reference in the `./nginx/project.conf`). The *nginx* server depends on the `dash_app`, because it has to serve it on the port `80`
 
@@ -158,4 +158,4 @@ $ eval $(docker-machine env dash_app_droplet)
 
 Now, if you will run the `$ docker-compose up --build -d` it will deploy the app directly from the local host to the droplet.
 
-See [*official guide*](https://docs.docker.com/machine/examples/ocean/#step-5-use-machine-to-remove-the-droplet) for step-by-step instructions.
+See the [*official guide*](https://docs.docker.com/machine/examples/ocean/#step-5-use-machine-to-remove-the-droplet) for step-by-step instructions.
