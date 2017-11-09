@@ -5,9 +5,7 @@ date:   2017-11-09 20:00:00 +0100
 categories: cycling
 comments: true
 ---
-*De Ronde van Vlaanderen* is one of the greatest races on the cycling calendar. The professional version of the race culminates the Belgian spring cobbles classics and is held on the first Sunday of April.
-
-It is a great pleasure to [watch the race from the sidelines](https://youtu.be/fjES2MRjSmg) while enjoying the Belgian beer, but it is even more fun to test the grit of the *cobbles, bergs and [betonwegen](http://inrng.com/2013/03/the-betonweg/)* yourself at the amateur version of the race the day before.
+*De Ronde van Vlaanderen* is one of the greatest races on the cycling calendar. The professional version of the race culminates the Belgian spring cobbles classics and is held on the first Sunday of April. It is a great pleasure to [watch the race from the sidelines](https://youtu.be/fjES2MRjSmg) while enjoying the Belgian beer, but it is even more fun to test the grit of the *cobbles, bergs and [betonwegen](http://inrng.com/2013/03/the-betonweg/)* yourself at the amateur version of the race the day before.
 
 
 ### Is it a race? Is it a tour? It is a *Toertocht*!
@@ -33,7 +31,7 @@ If you took part in the event now you can compare your finishing time with other
 
 For registered *Strava* users the *Velometria* will also analyze your recent cycling performance and would try to predict the *finishing time* if the event was held today.
 
-### We are only starting
+### I am only getting started
 
 *Velometria* is a work in progress with a mission to utilize the vast array of cycling data collected by *Strava* users and provide the novel insights into the amateur cycling events we all love.
 
