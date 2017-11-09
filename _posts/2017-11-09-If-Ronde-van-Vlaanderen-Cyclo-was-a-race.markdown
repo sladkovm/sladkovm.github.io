@@ -14,7 +14,7 @@ Cycling is the second biggest sport in Belgium after football and the amateur fe
 
 Any cycling event in Belgium attracts so many participants that closing the roads and holding a proper race is simply not practical. What is a Belgian solution to the problem? A *Toertocht*.
 
-A *Toertocht* is an organized mass cycling event with an entourage of a bicycle race, but without a time keeping. The amateur cyclists participating in the *Toertochten* are typically categorized as *wielertoeristen*.
+A *Toertocht* is an organized mass cycling event with an entourage of a bicycle race, but without a time keeping.
 
 The [*Ronde van Vlaanderen Cyclo*](http://www.sport.be/werideflanders/2017/en/) or *We Ride Flanders* - as it is known by commercial name, is one of the biggest *Toertochten* events on the Belgian calendar. The event in fact is so big, that participation requires registration in advance and starting numbers are being sold quite quickly.
 
@@ -27,7 +27,7 @@ I've found it rather unfortunate that the *tourtochten* do not keep the time. To
 
 [![Velometria Ronde Van Vlaanderen Cyclo 141]({{site.url}}/assets/2017-11-09-RVV-Cyclo/rvv_141.gif)](http://velometria.com/events/rvv-141-cyclo-2017)
 
-If you took part in the event now you can compare your finishing time with other cyclist and estimate how high would you rank if the *Toertocht* was a race.
+If you took part in the event you can compare your finishing time with other cyclist and estimate how high would you rank if the *Toertocht* was a race.
 
 For registered *Strava* users the *Velometria* will also analyze your recent cycling performance and would try to predict the *finishing time* if the event was held today.
 
