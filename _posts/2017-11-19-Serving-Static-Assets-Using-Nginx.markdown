@@ -73,6 +73,7 @@ server {
     }
 
     location /static {
+        rewrite ^/static(.*) /$1 break;
         root /static;
     }
 }
