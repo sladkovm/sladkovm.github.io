@@ -6,7 +6,7 @@ permalink: /about/
 
 Cycling, data science, web development and how to exercise all these fields at the same time.
 
-I have a *PhD degree in experimental physics*, spent 6 awesome years racing the *Moor's low* and currently working on bringing *3D vision* to our everyday life. All you need to know about me as a professional is summarized on [Linkedin](https://www.linkedin.com/in/sladkovm/).
+I have a *PhD degree in experimental physics*, spent 6 awesome years racing the *Moor's law* and currently working on bringing *3D vision* to our everyday life. All you need to know about me as a professional is summarized on [Linkedin](https://www.linkedin.com/in/sladkovm/).
 
 
 I can be found:
